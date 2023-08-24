@@ -1,0 +1,30 @@
+ls
+./a.out1
+./a.out2
+./a.out3
+history
+./a.out1 | ./a.out2 | ./a.out3
+./a.out1|./a.out2|!"4"&
+exit
+./a.out1 | ./a.out2|./a.out3
+./a.out1|./a.out2|./a.out3&
+history
+kiljobs
+jobs
+kill %1
+echo "saofj 'a''afpoasio""
+ls
+history
+./a.out1 | ./a.out2 | ./a.out3 |grep"a"'b'
+./a.out1|./a.out2|./a.out3|grep "a"'b'
+./a.out1|./a.out2|grep "a"'b'&
+exit
+./a.out1 | ./a.out2 | ./a.out2
+history
+history|"."'c'
+history|grep "."'c'
+history
+history|grep "."'c'&
+jobs
+kill %1
+exit

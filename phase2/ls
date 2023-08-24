@@ -1,0 +1,60 @@
+clear
+ls
+history
+history | grep a
+ls | grep a
+history
+ls
+ls | grep a
+ls
+ls | grep a
+ls -a | grep a
+ls -al | grep a
+history | grep a
+ls -al | grep a
+ls -al | grep a | grep cs
+ls -al | grep cs
+ls | grep a | grep b
+ls | grep a | grep M
+ls |grep a|grep M
+ls|grep a|grep M
+ls | grep -a
+ls |  grep -a
+ls | grep a
+ls |  grep a
+ls|grep a
+ls |grep a
+ls|grep a|grep M
+history
+history | grep a
+history
+ls
+history
+ls
+ls | grep a
+ls|grep a
+ls|history
+history
+history|ls
+ls|grep a
+ls|grep a|grep M
+ls
+make
+cd ..
+ls
+cd phase2
+ls
+cd
+ls
+history
+history | grep a
+ls | grep a
+history | grep a
+history
+ls | history
+history |grep a
+ls | history
+history | grep a
+ls | history
+ls | grep a
+cat history.txt | less

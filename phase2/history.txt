@@ -1,0 +1,108 @@
+clear
+ls
+history
+history | grep a
+ls | grep a
+history
+ls
+ls | grep a
+ls
+ls | grep a
+ls -a | grep a
+ls -al | grep a
+history | grep a
+ls -al | grep a
+ls -al | grep a | grep cs
+ls -al | grep cs
+ls | grep a | grep b
+ls | grep a | grep M
+ls |grep a|grep M
+ls|grep a|grep M
+ls | grep -a
+ls |  grep -a
+ls | grep a
+ls |  grep a
+ls|grep a
+ls |grep a
+ls|grep a|grep M
+history
+history | grep a
+history
+ls
+history
+ls
+ls | grep a
+ls|grep a
+ls|history
+history
+history|ls
+ls|grep a
+ls|grep a|grep M
+ls
+make
+cd ..
+ls
+cd phase2
+ls
+cd
+ls
+history
+history | grep a
+ls | grep a
+history | grep a
+history
+ls | history
+history |grep a
+ls | history
+history | grep a
+ls | history
+ls | grep a
+cat history.txt | less
+cat history.txt | grep -i "abc" | sort -r
+cat history.txt | grep -i "ab" | sort -r
+ls | grep a
+ls
+ls | grep a
+history | grep a
+ls | grep a
+history | grep a
+ls | history
+ls
+history
+ls | history
+ls |grep a|grep cs
+ls |grep a|grep cs| grep o
+cat history.txt |less
+history | grep a
+ls | grep a
+history | grep a
+ls | grep a
+history | grep a
+ls | grpe a
+ls | grep a
+history | grep a
+ls
+ls | grep a
+history | grep a
+ls | grep a | grep B
+history | grep a
+ls | grep a
+history | grep a
+ls | grep a
+ls
+ls | grep a
+history | grep a
+ls | grep a | grep M
+history
+echo a
+echo "a"
+ls
+history
+echo a
+echo a | grep a
+ls
+history
+history | echo a
+history
+ls
+jobs

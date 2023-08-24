@@ -1,0 +1,77 @@
+ls
+history	
+history
+[A
+ls
+history
+ls
+cd hi
+ls
+cd ..
+ls
+cd phase2
+ls
+clear
+history
+ls
+l
+ls
+history
+exit
+sapofeij
+abc|def
+ls | ls | ls
+ls | ls | ls
+ls | ls | ls
+make
+ls | ls | ls
+ls | ls |ls
+ls | ls | ls
+ls | ls | ls
+ls | grep a
+ls | grep a | M
+ls | grep a | grep M
+ls -a | grep a | grep M
+ls -l | grep a | grep M
+ls -a | grep a | grep M
+ls -al | grep M | grep a
+history
+ls | grep a
+history | grep l
+history | ls
+history
+cd | ls
+rm ls
+ls
+history
+ls
+ls
+ls
+history
+ls
+ls
+history
+ls
+hilsls
+ls
+hi
+ls
+hi
+ls
+history
+ls
+history
+ls
+history
+ls
+cd ..
+ls
+cd phase1
+ls
+history
+ls
+history
+ls
+l s
+ ls
+history
